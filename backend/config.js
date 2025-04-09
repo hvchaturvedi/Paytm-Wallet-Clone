@@ -1,4 +1,4 @@
 //backend/config.js
 module.exports = {
-  JWT_SECRET: "Harsh-Secret",
+  JWT_SECRET: "Your-Secret",
 };
